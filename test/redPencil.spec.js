@@ -1,4 +1,4 @@
-describe('red pencil promotion', function () {
+xdescribe('red pencil promotion', function () {
   var initialItem, promo;
   beforeEach(function () {
     initialItem = {
